@@ -1,0 +1,8 @@
+main {
+    background: linear-gradient(184deg, rgb(137, 138, 143), rgb(202, 198, 199), rgb(231, 186, 102), rgb(130, 165, 98));
+}
+
+section.about {
+    justify-content: center;
+    align-items: center;
+}

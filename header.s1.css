@@ -1,0 +1,47 @@
+header {
+    background-image: url(../image/primer1.jpg);
+}
+
+.navigator-a {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ul-icons {
+    display: flex;
+    margin-left: 600px;
+    padding-right: 40px;
+}
+
+.ul-icons>li {
+    list-style-type: none;
+    padding: 10px;
+    margin-right: 20px;
+}
+
+.ul-icons>li>a {
+    text-decoration: none;
+    color: rgb(139, 139, 163);
+}
+
+.art-flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+img.logo {
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+}
+
+.art-flex > .cta-button {
+    border-radius: 30px;
+    width: 200px;
+    height: 30px;
+    margin-bottom: 10px;
+}
